@@ -1,0 +1,73 @@
+* DATATYPES  IN  C :
+     int - signed and unsigned(4 bytes)
+    char-signed and unsigned(1 bytes)
+    float-(4 bytes)
+   double-(8 bytes)
+   long-signed and unsigned(4 bytes)
+   short-signed and unsigned(2 bytes)
+   void
+
+*PURPOSE OF DATATYPES :
+    Memory is stored in stack. Memory will be allocated in stack and it is present in RAM.
+
+*COMPILE  TIME :
+     Input given at the time of writing program.Input is stored on stack which is stored on RAM .
+
+*RUNTIME :
+   Input is given by the user at the end of program.It is stored in heap which is stored on RAM.
+
+*C  language  follows  ASCII  TABLE.We cant print name in telugu using c language.
+
+                                                INTRODUCTION   TO   PYTHON 
+
+*In python,specifing of datatypes is not required.It automatically identifies it.
+
+*Python follows UNICODE table whose range is [-32768 to 3267].All language characters are supported   in unicode table.So we can print our name in telugu using python.
+
+*IDE's and EDITORS :
+     In IDE,we can run,save and write the program there itself.
+    In Editors,we can type the program and save the program there but we can run the program.
+  
+*PYTHON  IDE's :
+  Thony,pycharm,vscode,anaconda. 
+
+*COMPILER :
+   Compiler scans the entire program .While scaning the program , if any one error occur the entire   program gets jammed or collapsed.
+
+*INTERPRETER :
+    If the program gets any error only that line of code is skipped and the rest of the code gets executed.It        scans line by line. 
+
+*Keywords are based on version of python.we use modules in python like header files in C.
+
+*RULES FOR PROPER VARIABLE NAME :
+   No special characters at the begginning except   ' _ ' .
+   We can disable a invalid name by using ' # '.
+   No number at the begginning .
+   It should not contain white space.
+   It should not start with keywords.
+
+*VARIABLES :
+    IT is used to store values.
+
+*INPUT METHOD :
+ Taking input from user. 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

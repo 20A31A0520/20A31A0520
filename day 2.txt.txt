@@ -1,0 +1,29 @@
+* SEPARATOR
+what is the purpose of separator
+separator separate each and every value.
+
+*To enter the elements on the same line we should add "end=' ' ". so that the value come on same line.
+END SEPARATE ONLY ONE VALUE AT A TIME.
+
+* SPLIT
+    It is mainly used for geting multiple inputs from the user along with white space at the same time .
+    SYNTAX:
+                     input().split(separator,maxsplit)
+ 
+ *CONTROL STATEMENTS
+
+  1) "== "does not compare datatype ,it only compares integers.
+  2) "=== "compares both dagtatype and integer value.
+ 3) we use nested if to make our code strong.
+  4)iteration codes are used for reducingsize of code.
+ 5)we use 'in' and 'notin' operator instaed of increment decrement operators in python.
+
+*TRIANGLE PROBLEMS
+   code contains two fors,1st for represent rows and second for represents columns.
+                 for i in range(1,6):
+                         for j in range(1,6): 
+each and every your outer(row) for iteration is intialised and column is re-initialised.
+
+*list 
+ 1)it is recognised by square brackets.
+2)using "len" method we can find length of string.
